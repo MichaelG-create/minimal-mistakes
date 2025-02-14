@@ -1,0 +1,7 @@
+ton_nom:
+  name        : "Michael Garcia"
+  avatar      : "/assets/images/avatar.jpg"
+  bio         : "Data Engineer passionné par le Big Data et l’architecture de données."
+  location    : "France"
+  github      : "MichaelG-create"
+  linkedin    : "https://www.linkedin.com/in/michaelgarcia838383/"
