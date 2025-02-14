@@ -1,15 +1,17 @@
 ---
 layout: archive
-title: "Mes Projets"
+title: "Projets"
 permalink: /projects/
 ---
 
-# 🚀 Mes Projets Data Engineering
+## 🔥 Projets Data Engineering
 
-## 🔹 [Banking_Agency_Traffic](https://github.com/ton_username/Banking_Agency_Traffic)
-- **Analyse et prédiction du trafic en agence bancaire.**  
-- Stack : FastAPI, PySpark, Airflow, Docker, Trino, Grafana.
+### 📌 [Bank Branch Footfall](https://github.com/michaelg-create/bank-branch-footfall)
+- **Objectif** : Analyse et prédiction du trafic en agence bancaire.  
+- **Stack** : FastAPI, PySpark, Airflow, Docker, Streamlit.  
+- **Lien** : [Code Source](https://github.com/michaelg-create/bank-branch-footfall)  
 
-## 🔹 [JobLens AI](https://github.com/ton_username/JobLens_AI)
-- **Analyse du marché de l'emploi en Data Engineering.**  
-- Stack : Scraping API, Pandas, Streamlit, Grafana.
+### 📌 [JobLens AI](https://github.com/michaelg-create/JobLens_AI)
+- **Objectif** : Analyse des tendances du marché de l’emploi en Data Engineering.  
+- **Stack** : Scraping API, Pandas, Streamlit, Grafana.  
+- **Lien** : [Code Source](https://github.com/michaelg-create/JobLens_AI)  
