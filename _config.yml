@@ -112,31 +112,32 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Michael Garcia-Rollet"
-  avatar           : "/assets/images/profile-pic.png"
-  bio              : "I am an **amazing** person."
-  location         : "Aix-les-bains"
-  email: "michaelgarcia73@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:michaelgarcia73@gmail.com"
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/michaelgarcia838383/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/MichaelG-create"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+author: michael_garcia
+#
+#  name             : "Michael Garcia-Rollet"
+#  avatar           : "/assets/images/profile-pic.png"
+#  bio              : "I am an **amazing** person."
+#  location         : "Aix-les-bains"
+#  email: "michaelgarcia73@gmail.com"
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:michaelgarcia73@gmail.com"
+##    - label: "Website"
+##      icon: "fas fa-fw fa-link"
+#      # url: "https://your-website.com"
+##    - label: "Twitter"
+##      icon: "fab fa-fw fa-twitter-square"
+#      # url: "https://twitter.com/"
+#    - label: "linkedin"
+#      icon: "fab fa-fw fa-linkedin-square"
+#      url: "https://www.linkedin.com/in/michaelgarcia838383/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/MichaelG-create"
+##    - label: "Instagram"
+##      icon: "fab fa-fw fa-instagram"
+#      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
