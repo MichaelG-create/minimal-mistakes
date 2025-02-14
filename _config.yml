@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Michael Garcia-Rollet"
 description              : "Bienvenue sur mon portfolio où je partage mes projets en Data Engineering."
 url                      : "https://michaelg-create.github.io"
-baseurl                  : "/minimal-mistakes"# the subpath of your site, e.g. "/blog"
+baseurl                  : "/portfolio"# the subpath of your site, e.g. "/blog"
 repository               : "MichaelG-create/portfolio"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
