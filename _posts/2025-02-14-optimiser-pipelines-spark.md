@@ -1,8 +1,9 @@
 ---
+layout: post
 title: "Optimiser les Pipelines Spark pour le Big Data"
 date: 2025-02-14
-categories: data-engineering spark
-tags: spark optimization performance
+categories: [Data Engineering]
+tags: [Big Data, Spark]
 ---
 
 # 🚀 Optimisation des Pipelines Spark
