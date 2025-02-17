@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "CV"
+permalink: /CV/
+---
+
 ## Mon CV
 
 [Télécharger mon CV](assets/pdf/CV_Michael_GARCIA.pdf)
