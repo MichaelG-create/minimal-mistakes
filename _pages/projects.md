@@ -7,7 +7,7 @@ permalink: /projects/
 ## 🔥 Projets data engineering
 
 ### 📌 [Bank branch footfall](https://github.com/michaelg-create/bank-branch-footfall)
-![data-flow-diagram](/assets/images/data-flow-diagram.png)
+![data-flow-diagram]({{ site.baseurl }}/assets/images/data-flow-diagram.png)
 - **Objectif** : Analyse et prédiction du trafic en agence bancaire.  
 - **Stack** : FastAPI, PySpark, Airflow, Docker, DuckDB, Streamlit  
 - **Lien** : [Code Source](https://github.com/michaelg-create/bank-branch-footfall)
