@@ -28,10 +28,10 @@ permalink: /projects/
 ### 📌 [Bootcamp Zac Wilson]()
 
 
-### 📌 [Data modelling](https://srssql.streamlit.app/)
+### 📌 [Data modelling]()
 - **Objectif** : Réorganiser les données d'une BDD postgreSQL pour optimiser le temps de traitement à posteriori (OLTP vers OLAP).   
 - **Stack** : postgreSQL, Docker  
-- **Liens** : [Code Source](https://github.com/michaelg-create/SRS_SQL)
+- **Liens** : [Code Source]()
 
 ### 📌 [Bootcamp Zoomcamp]()
 
