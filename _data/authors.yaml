@@ -9,7 +9,7 @@ michael_garcia:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:michaelgarcia73@gmail.com"
-    - label: "linkedin"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/michaelgarcia838383/"
     - label: "GitHub"

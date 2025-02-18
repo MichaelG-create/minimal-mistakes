@@ -6,7 +6,7 @@ categories: [Data Engineering]
 tags: [Big Data, Spark]
 ---
 
-# 🚀 Optimisation des Pipelines Spark
+# 🚀 Optimisation des pipelines Spark
 Pour traiter des données massives efficacement, il faut :
 1. **Parquet & Partitionnement** pour minimiser les lectures.  
 2. **Broadcast Join** pour optimiser les jointures.  
